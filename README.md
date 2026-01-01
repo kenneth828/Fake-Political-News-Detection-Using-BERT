@@ -90,10 +90,6 @@ The model was trained with the following configuration:
 - Dataset size (1,000 articles) may limit generalization
 - No access to external verification databases
 
-## 📄 License
-
-This project is for academic and research purposes.
-
 
 ## 🙏 Acknowledgments
 
